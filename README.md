@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello mọi người, mình là Hoàng
+**Hello mọi người, mình là Hoàng**
 
 <!--
 Hello mọi người mình là Hoàng
